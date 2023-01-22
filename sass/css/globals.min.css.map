@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "sources": [
+        "../utils/globals.scss"
+    ],
+    "names": [],
+    "mappings": "AAAA,MACI,wBAAA,CACA,gBAAA,CACA,iBAAA,CACA,eAAA,CACA,gBAAA,CACA,qBAAA,CACA,cAAA,CACA,qBAAA,CACA,gBAAA,CAGJ,QACI,YAAA,CAGJ,wBAOI,QAAA,CACA,SAAA,CAGJ,QAEI,qBAAA,CAGJ,GACI,eAAA,CAEJ,KACI,+BAAA,CACA,6BAAA",
+    "file": "globals.min.css"
+}

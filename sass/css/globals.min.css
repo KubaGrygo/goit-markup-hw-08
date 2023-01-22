@@ -1,0 +1,35 @@
+:root {
+    --primary-color: #2196f3;
+    --white: #ffffff;
+    --gray: #ffffff99;
+    --dark: #2f303a;
+    --black: #000000;
+    --anthracite: #212121;
+    --ash: #757575;
+    --light-gray: #f5f4fa;
+    --light: #eeeeee;
+}
+*:focus {
+    outline: none;
+}
+ul,
+p,
+h1,
+h2,
+h3,
+h4,
+figure {
+    margin: 0;
+    padding: 0;
+}
+img,
+svg {
+    vertical-align: middle;
+}
+ul {
+    list-style: none;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: var(--white);
+} /*# sourceMappingURL=globals.min.css.map */
